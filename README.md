@@ -1,127 +1,150 @@
-# Hi 👋, I'm Harjot Singh
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm Harjot Singh
 
-### 🐍 Python Developer | Data Science | AI & Machine Learning
+### 🐍 Python Developer | 🤖 AI & Machine Learning Enthusiast | 📊 Data Science Explorer
 
-I’m a passionate **Python Developer and AI/ML enthusiast** focused on building practical, data-driven applications and intelligent solutions.
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-* 🔭 Currently working on **Python, Data Science & AI/ML projects**
-* 🌱 Exploring **Machine Learning, Deep Learning, Generative AI & Algorithms**
-* 💻 Interested in **Backend Development, Data Analytics & Intelligent Systems**
-* 🎯 Goal: Build scalable, useful and production-ready software
-* 📚 Currently pursuing **M.Tech in Artificial Intelligence**
-* 📍 India
-* 💬 Ask me about **Python, SQL, Data Science, Machine Learning & Algorithms**
+Passionate about building intelligent systems, solving real-world problems through code, and continuously exploring new technologies in Artificial Intelligence and Software Development.
+
+* 🎓 Pursuing **M.Tech in Artificial Intelligence**
+* 💻 Focused on **Python Development, Machine Learning & Data Science**
+* 🚀 Building practical AI applications and automation solutions
+* 🌱 Currently learning **Deep Learning, Generative AI & Graph Neural Networks**
+* 🔍 Research Interests: **Heuristic Search, AI Planning & Intelligent Systems**
+* ⚡ Fun Fact: *I enjoy turning ideas into code and data into insights.*
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
 ### Programming Languages
 
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql" />
 </p>
 
-### Data Science & Machine Learning
+### AI / Data Science
 
 <p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
 </p>
 
-### AI / Deep Learning
+* NumPy
+* Pandas
+* Scikit-Learn
+* Matplotlib
+* Seaborn
+* Machine Learning
+* Deep Learning
+
+### Development Tools
 
 <p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge"/>
-</p>
-
-### Backend & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📊 GitHub Statistics
 
-### 🤖 AI / Machine Learning
+<p align="center">
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=HarjotSingh9828&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarjotSingh9828&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-* 🔹 **Machine Learning Projects** — End-to-end ML projects using Python and Scikit-Learn
-* 🔹 **Data Analysis Projects** — Data cleaning, EDA, visualization and insights
-* 🔹 **AI Applications** — Practical AI-based applications and experiments
-
-### 🐍 Python Development
-
-* 🔹 **Python Automation** — Scripts and automation tools
-* 🔹 **Backend APIs** — Python-based REST APIs using Flask/FastAPI
-* 🔹 **Algorithm Implementations** — Data Structures, Algorithms & Search techniques
-
-> 🚧 More projects are continuously being added.
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HarjotSingh9828&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
-## 📊 What I'm Currently Learning
+## 🎯 Current Focus
 
-```text
-Python Development       ████████████████████  Advanced
-Data Science             ██████████████████░░  Advanced
-Machine Learning         ████████████████░░░░  Intermediate+
-SQL                      ██████████████████░░  Advanced
-Deep Learning            ██████████████░░░░░░  Intermediate
-Generative AI            ████████████░░░░░░░░  Learning
-System Design            ██████████░░░░░░░░░░  Learning
+```python
+class HarjotSingh:
+
+    def __init__(self):
+        self.role = "Python Developer"
+        self.education = "M.Tech AI"
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Data Science",
+            "Research",
+            "Backend Development"
+        ]
+
+    def current_goal(self):
+        return "Build impactful AI-powered applications"
+
+me = HarjotSingh()
+print(me.current_goal())
 ```
 
 ---
 
-## 🎯 Research Interests
+## 🌟 Featured Projects
 
-* 🔍 Heuristic Search & Intelligent Search Algorithms
-* 🧠 Learning-based Heuristics
-* 🤖 Graph Neural Networks
-* 🗺️ AI-based Pathfinding
-* 📊 Machine Learning & Data Science
-* 🧬 Deep Learning
-* ⚡ Optimization Algorithms
-* 🔮 Generative AI
+### 🤖 Artificial Intelligence
 
----
+* AI Search Algorithms
+* Intelligent Pathfinding Systems
+* Machine Learning Models
+* Deep Learning Experiments
 
-## 📈 GitHub Activity
+### 📊 Data Science
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarjotSingh9828\&show_icons=true\&theme=tokyonight\&hide_border=true)
+* Exploratory Data Analysis
+* Data Visualization Dashboards
+* Predictive Analytics Projects
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarjotSingh9828\&layout=compact\&theme=tokyonight\&hide_border=true)
+### 🐍 Python Development
 
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/HarjotSingh9828/HarjotSingh9828/output/github-contribution-grid-snake.svg)
+* Automation Scripts
+* REST APIs
+* Backend Applications
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Learning Journey
 
-<p>
-  <a href="https://github.com/HarjotSingh9828">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+| Technology       | Progress                 |
+| ---------------- | ------------------------ |
+| Python           | ████████████████████ 95% |
+| SQL              | ██████████████████ 90%   |
+| Data Science     | █████████████████ 85%    |
+| Machine Learning | ████████████████ 80%     |
+| Deep Learning    | ██████████████ 70%       |
+| Generative AI    | ███████████ 60%          |
+
+---
+
+## 🏆 Research Interests
+
+* Heuristic Search Algorithms
+* Learning Heuristics using GNNs
+* Graph Neural Networks
+* AI Planning
+* Reinforcement Learning
+* Optimization Algorithms
+* Explainable AI
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/HarjotSingh9828">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-### 💡 "Build. Learn. Experiment. Repeat."
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=HarjotSingh9828&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-⭐ If you find my projects useful, consider giving them a star!
+<h3 align="center">
+⭐ Building AI Solutions One Commit at a Time ⭐
+</h3>
